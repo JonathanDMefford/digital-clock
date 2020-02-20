@@ -1,0 +1,22 @@
+html {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-image: url(/img/digitalclock.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 58%;
+    background-position-x: 255px;
+    background-position-y: 73px;
+}
+
+#clock {
+    font-size: 100px;
+    text-align: center;
+    width: 100%;
+    font-weight: bold;
+    padding-top: 200px;
+    color: darkred;
+}
